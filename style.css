@@ -1,0 +1,71 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+    font-size: 20px;
+}
+body a{
+    text-decoration: none;
+    color: black;
+    border: 3px solid palevioletred;
+    border-radius: 7px;
+    padding: 10px;
+    margin: 10px;
+}
+
+
+header{
+    background-color: palevioletred;
+    border-radius: 15px;
+    padding: 4px;
+}
+header img{
+    padding: 4px;
+    margin: 4px;
+}
+header a{
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 4px;
+    margin: 4px;
+    color: palevioletred;
+    background-color:white;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    color:rgb(234, 73, 126) ;
+    border: 5px solid palevioletred;
+    border-radius: 40px;
+}
+footer{
+    border: 7px solid palevioletred;
+    color: palevioletred;
+    background-color: black;
+}
+nav{
+    margin: 20px;
+    padding: 10px;
+    border: 7px solid palevioletred;
+    text-decoration: none;
+}
+nav a{
+    color: black;
+    border: 1px solid palevioletred;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+    text-decoration: none;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+    color: palevioletred;
+    text-shadow: 2px 2px 2px rgb(225, 16, 86);
+}
+.fon{
+    border: 5px solid rgb(225, 16, 86) ;
+    border-radius: 15px;
+    margin: 10px;
+    padding: 10px;
+}
